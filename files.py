@@ -1,5 +1,7 @@
 #Files Assignment Week 8
 
+import os
+
 def main():
     directory = input("Enter Directory You Want To Save: ")
     file_name = input("Enter Filename: ")
